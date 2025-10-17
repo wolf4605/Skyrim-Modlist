@@ -1,5 +1,5 @@
 # **Wolf's Personal Modlist**
----
+
 This is my personal Modlist on the mods that I personally like to use on my Skyrim. Read this carefully since, it contains instructions for some mods that need to be added manually.
 
 I have carefully read and made the whole list. You can download each mod seperately and modify it as you please.
@@ -7,9 +7,10 @@ I have carefully read and made the whole list. You can download each mod seperat
 **⚠️ No help will be provided if you choose to modify this list.**
 
 I have provided instructions regarding how to install the mods since some mods will require you to manually install some optional files, along with fixes to some issues that can be easily resolved with out using external tools.
-___
+
 # **Types of Mods**
 - **⚙️ Core Mods**
+- **Tools**
 - **🔧 UI and System Overhauls**
 - **🖼️ Textures**
 - **💇🏼‍♀️ PC & NPC Overhauls**
@@ -17,12 +18,11 @@ ___
 - **👚 Clothes Replacer**
 - **Animations**
 - **🩹 Patches**
----
 
 ## **⚙️ Performance, Optimizations and Bug Fixes**
 <b>
 
-- [ ] [Skyrim Script Extender**](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=description) (SKSE)<br>
+- [ ] [Skyrim Script Extender](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=description) (SKSE)<br>
 ⚠️ Nothing will work without this. duh<br>
 ⚠️ Sometimes Vortex doesn't install this mod correcctly in that case, manually install it via the instructions in the archive.
 
@@ -36,7 +36,7 @@ ___
 ⚠️ Option `AnimationLoadSignedCrash` must be disabled in the `EngineFixes.toml` inside SSE Engine Fixes if you plan to install Animation Limit Crash Fix.
 
 - [ ] [Optional] [Animation Crash Limit Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146?tab=description)<br>
-⚠️ Option `AnimationLoadSignedCrash` must be disabled in the `EngineFixes.toml` inside SSE Engine Fixes. This mod just increases the amount of NPC that can be animated at a time.
+⚠️ Option `AnimationLoadSignedCrash` must be disabled in the `EngineFixes.toml` inside SSE Engine Fixes.
 
 - [ ] [SSE Display Tweaks]()<br>
 ⚠️ If you feature a bug where you can't use the keyboard, add the following lines at the bottom in `SSEDisplayTweaks.ini`.
@@ -45,6 +45,10 @@ ___
 
 bEnablePlatform=0
 ```
+
+- [ ] [Optional] [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)<br>
+⚠️ Increases the amount of actors that can be animated at a time. Nothing else.
+
 - [ ] [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532?tab=posts)<br>
 ⚠️ If you get a CTD, similar to this:<br>
     `[2 ] 0x7FFEDFDE384C ScrambledBugs.dll+000384C`<br>`ScrambledBugs::Fixes::ModArmorWeightPerkEntryPoint::GetInventoryWeight`<br>
@@ -77,14 +81,71 @@ bEnablePlatform=0
 ⚠️ If you get an error that this plugin failed to load, just uninstall it. I'm sure you can live with a small harmless bug.
 
 - [ ] [Animation Queue Fix](https://www.nexusmods.com/skyrimspecialedition/mods/82395)
+
+- [ ] [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) (WACC)
+
 </b>
 
-___
+## Tools
+
+<b>
+
+- [ ] [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)<br>
+Required for building Body and Clothes.
+
+
+</b>
+
 ## **🔧 UI and Improvements**
+<b>
+
+- [ ] [Sneak Tools SE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1863)
+
+</b>
+
 ## **🖼️ Textures**
+<b>
+
 - [ ] [Optional] [Unofficial performance optimized textures AKA (UPOT) (SSE-ANNIVERSARY editions)](https://www.nexusmods.com/skyrimspecialedition/mods/21166)<br>
 ⚠️ A low-resolution texture pack I use to enhance my FPS since I have a potato PC.
+
+- [ ] []
+
+</b>
+
 ## **💇🏼‍♀️ PC & NPC Overhauls**
+
+<b>
+
+- [ ] [CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/30174) <span style="color: red;">[NSFW]</span><br>
+Use Nevernude Option in FOMOD for SFW version.
+
+- [ ] [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198) <span style="color: red;">[NSFW]</span><br>
+Use Nevernude Option in FOMOD for SFW version.
+
+- [ ] [CBPC - Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224) <span style="color: red;">[NSFW]</span>
+
+</b>
+
 ## **🗒️ Quests & Followers**
 ## **👚 Clothes Replacer**
+
+<b>
+
+- [ ] [Somewhere in Between - 3BA Armor compilation replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98945?tab=files)<br>
+⚠️Doesn't contain all armors and clothing. Not yet anyways.<br>
+⚠️If you find some missing piece of armors, regenerate that specific armor piece in BodySlide instead of Batch Build.
+
+- [ ] [BD's Armor and Clothes Replacer - CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/32518) <span style="color: red;">[NSFW]</span><br>
+⚠️<span style="color: red;">Warning: It contains really Skimpy Armors.<br>
+⚠️ Only install one this or Somewhere in Between. Both are incompatible.</span>
+
+</b>
+
 ## **🩹 Miscelleneous Patches**
+
+<b>
+
+- [ ] []
+
+</b>

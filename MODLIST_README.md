@@ -30,6 +30,10 @@ I have provided instructions regarding how to install the mods since some mods w
 
 - [ ] [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) (USCCCP)
 
+- [ ] [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
+
+- [ ] [PapyrusUtil SE - Modders Scripting Utility Functions]()
+
 - [ ] [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)<br>
 ⚠️ Download the Main File via Vortex<br>
 ⚠️ Manually install the preloader file by extracting it into Skyrim root folder should be right beside Skyrim.exe<br>
@@ -61,8 +65,6 @@ bEnablePlatform=0
 
 - [ ] [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261?tab=posts)
 
-- [ ] [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
-
 - [ ] [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
 
 - [ ] [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073) (PO3's Tweaks)
@@ -81,6 +83,8 @@ bEnablePlatform=0
 ⚠️ If you get an error that this plugin failed to load, just uninstall it. I'm sure you can live with a small harmless bug.
 
 - [ ] [Animation Queue Fix](https://www.nexusmods.com/skyrimspecialedition/mods/82395)
+
+- [ ] [Crash Logger SSE AE VR - PDB support](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
 
 - [ ] [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) (WACC)
 
@@ -146,6 +150,6 @@ Use Nevernude Option in FOMOD for SFW version.
 
 <b>
 
-- [ ] []
+
 
 </b>

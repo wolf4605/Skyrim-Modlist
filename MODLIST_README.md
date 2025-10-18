@@ -9,15 +9,15 @@ I have carefully read and made the whole list. You can download each mod seperat
 I have provided instructions regarding how to install the mods since some mods will require you to manually install some optional files, along with fixes to some issues that can be easily resolved with out using external tools.
 
 # **Types of Mods**
-- **⚙️ Core Mods**
-- **Tools**
-- **🔧 UI and System Overhauls**
-- **🖼️ Textures**
-- **💇🏼‍♀️ PC & NPC Overhauls**
-- **🗒️ Quests & Followers**
-- **👚 Clothes Replacer**
-- **Animations**
-- **🩹 Patches**
+- ⚙️ [**Performance, Optimizations and Bug Fixes**](#️-performance-optimizations-and-bug-fixes)
+- 🛠️ [**Tools**](#-tools)
+- 🔧 [**UI and System Overhauls**](#-ui-and-improvements)
+- 🖼️ [**Textures**](#️-textures)
+- 💇🏼‍♀️ [**PC & NPC Overhauls**](#️-pc--npc-overhauls)
+- 🗒️ [**Quests & Followers**](#️-pc--npc-overhauls)
+- 👚 [**Clothes Replacer**](#-clothes-replacer)
+- 💃 [**Animations**](#-animations)
+- 🩹 [**Miscelleneous Patches**](#-miscelleneous-patches)
 
 ## **⚙️ Performance, Optimizations and Bug Fixes**
 <b>
@@ -88,21 +88,40 @@ bEnablePlatform=0
 
 - [ ] [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) (WACC)
 
-</b>
+- [ ] [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)
 
-## Tools
+- [ ] [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)
 
+- [ ] [XP32 Maximum Skeleton Special Extended - XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988)
+
+- [ ] [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429)
+
+- [ ] [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428)
+
+</br>
+
+## 🛠️ Tools
 <b>
 
 - [ ] [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)<br>
-Required for building Body and Clothes.
+⚠️ Required for building Body and Clothes.
 
+- [ ] [Project New Reign - Nemesis Unlimited Behavior Engine](https://www.nexusmods.com/skyrimspecialedition/mods/60033)<br>
+⚠️ Required for generating skyrim animations.
+
+- [ ] [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038)<br>
+⚠️ Required for generating skyrim animations.<br>
+⚠️ Either use this or Nemesis Unlimited Behhaviour Engine Personally I prefer Nemesis over FNIS.
 
 </b>
 
 ## **🔧 UI and Improvements**
 <b>
 
+- [ ] [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+
+- [ ] [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463?tab=description)<br>
+⚠️ Download the optional file too
 - [ ] [Sneak Tools SE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1863)
 
 </b>
@@ -122,13 +141,19 @@ Required for building Body and Clothes.
 <b>
 
 - [ ] [CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/30174) <span style="color: red;">[NSFW]</span><br>
-Use Nevernude Option in FOMOD for SFW version.
+⚠️ Use Nevernude Option in FOMOD for SFW version.
 
 - [ ] [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198) <span style="color: red;">[NSFW]</span><br>
-Use Nevernude Option in FOMOD for SFW version.
+⚠️ Use Nevernude Option in FOMOD for SFW version.
+
+- [ ] [SMP-NPC crash fix](https://www.nexusmods.com/skyrimspecialedition/mods/91616)
 
 - [ ] [CBPC - Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224) <span style="color: red;">[NSFW]</span>
 
+- [ ] [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
+
+- [ ] [HeelFix](https://www.nexusmods.com/skyrimspecialedition/mods/64442?tab=description)
+⚠️ Use this inplace of [RaceMenu High Heels (Height Fixes)](https://www.nexusmods.com/skyrimspecialedition/mods/18045)
 </b>
 
 ## **🗒️ Quests & Followers**
@@ -143,6 +168,16 @@ Use Nevernude Option in FOMOD for SFW version.
 - [ ] [BD's Armor and Clothes Replacer - CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/32518) <span style="color: red;">[NSFW]</span><br>
 ⚠️<span style="color: red;">Warning: It contains really Skimpy Armors.<br>
 ⚠️ Only install one this or Somewhere in Between. Both are incompatible.</span>
+
+- [ ] [CBBE 3BA Vanilla outfits redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194?tab=files)
+⚠️ For 3BA variants of clothes missing from Somewhere in Between.
+</b>
+
+## **💃 Animations**
+
+<b>
+
+
 
 </b>
 
